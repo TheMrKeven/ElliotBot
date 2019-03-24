@@ -53,11 +53,11 @@ O Token, deve ser obtido com o <b>BotFather</b>.
 * ```settings.py```: Todas as modificações, devem ser passadas a constantes deste arquivo,
 por ele ser importado pelo ```core.py```.
 
-##Executando
+# Executando
 
 Após ter configurado e instalado os requisitos, utilize o comando ```python bot.py```.
 
-##Exemplos de Comandos
+# Exemplos de Comandos
 
 Aqui estarão listados alguns comandos já presentes no Bot, caso deseje adicionar um comando ao projeto, leia a seção [Como Contribuir][como-contribuir].
 
@@ -68,7 +68,7 @@ Aqui estarão listados alguns comandos já presentes no Bot, caso deseje adicion
 * ```/curso```: _Mostra Cursos do Instrutor @AdSEBR (__Privado, e no Grupo__) (__Todos__)_
 * ```/ctf```: _Mostra mensagem do CTF (__Privado, e no Grupo__) (__Todos__)_
 
-##Como Contribuir
+# Como Contribuir
  1. Faça o fork do projeto (https://github.com/TheMrKeven/ElliotBot/fork)
  2. Crie uma branch para sua modificação (git checkout -b feature/fooBar)
  3. Faça o commit (git commit -am 'Add some fooBar')
