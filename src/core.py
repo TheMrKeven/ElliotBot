@@ -5,7 +5,7 @@ from src.config.settings import TELEGRAM_TOKEN, MSG_BOAS_VINDAS, \
     MSG_REGRAS, URL_BOT, MSG_LINK_CANAL, MSG_LINK_CURSO, MSG_ALERT_CTF, \
     PRINT_EVENTS
 
-__bot = telebot.TeleBot(TELEGRAM_TOKEN)
+__bot = telebot.TeleBot(TELEGRAM_TOKEN, threaded=False)
 
 def get_admin_ids(chat_id):
     return [admin.user.id for admin in __bot.get_chat_administrators(chat_id)]
@@ -23,7 +23,8 @@ def listener(messages):
             m.chat.id,
             m.chat.title,
             m.from_user.id,
-            m.from_user.first_name + " " + m.from_user.last_name,
+            m.from_user.first_name,
+            m.from_user.last_name,
             m.text,
             m.content_type
         ))
