@@ -22,6 +22,17 @@ MSG_LINK_CANAL = '''Canal no Youtube: https://www.youtube.com/user/adsecf'''
 
 MSG_LINK_CURSO = '''Curso na Udemy, com Desconto! https://www.udemy.com/seguranca-da-informacao-e-hacking/?couponCode=GUIAANONIMA '''
 
-MSG_ALERT_CTF = '''Todos os domingos próximo das 21 horas ocorre uma competição de CTF aqui no grupo. A cada semana um novo desafio e dentro de 3 meses (12 desafios) os 3 maiores pontuadores levam as premiações. ( Ainda não definidas ).'''
+MSG_ALERT_CTF = '''{x}{x}{x}{x}ATENÇÃO{x}{x}{x}{x}
+O desafio CTF irá começar pelas 21 horas de hoje 24/03, e terá o tempo de 1 hora a partir do momento em que for disponibilizado, qualquer pessoa daqui pode participar. Agora atenção para as regras
+{x}{x}{x}{x}REGRAS{x}{x}{x}{x}
+- MANDAR 3 PRINTS DE TELA MOSTRANDO O PROCESSO
+- EXPLICAR EM ÁUDIO O PROCEDIMENTO COMPLETO ATÉ A RESPOSTA
+- ESCREVER A RESPOSTA DIRETO SEM NADA A MAIS (EXEMPLO: "a flag é..."{no_entry_sign})
+- ENVIAR TUDO ISSO AO MEU
+PRIVADO @TTron
+- QUALQUER TENTATIVA DE TRAPAÇA, SUBORNO, OU DIVULGAR RESPOSTA NO GRUPO, SERÁ BAN!
 
-PRINT_EVENTS = '\033[37m[\033[31m{}\033[37m][\033[31m{}\033[37m](\033[34m{}\033[37m)\033[34m{}\033[37m: \033[32m{} \033[31m{}\033[37m'
+
+AGUARDEM...'''
+
+PRINT_EVENTS = '\033[37m[\033[31m{}\033[37m][\033[31m{}\033[37m](\033[34m{}\033[37m)\033[34m{} {}\033[37m: \033[32m{} \033[31m{}\033[37m'
