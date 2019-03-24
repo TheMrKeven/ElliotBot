@@ -1,7 +1,7 @@
 # ElliotBot </h1>
 [![Github-Release][git-release]][release-link]
 [![License][license]][license-link]
-![Repository-Size][repo-size]
+![Python Version][python-version]
 
 >Telegram Bot destinado para gerenciamento de Mensagens e uso administrativo do grupo no Telegram, [Guia Anônima][link-telegram].
 
@@ -79,7 +79,7 @@ Aqui estarão listados alguns comandos já presentes no Bot, caso deseje adicion
 
 [git-release]: https://img.shields.io/github/release/TheMrKeven/ElliotBot.svg
 [license]: https://img.shields.io/github/license/TheMrKeven/ElliotBot.svg
-[repo-size]: https://img.shields.io/github/repo-size/TheMrKeven/ElliotBot.svg
+[python-version]: https://img.shields.io/badge/python-3.6|3.7-blue.svg
 [release-link]: https://github.com/TheMrKeven/ElliotBot/releases
 [license-link]: https://github.com/TheMrKeven/ElliotBot/blob/master/LICENSE
 [como-contribuir]: https://github.com/TheMrKeven/ElliotBot#como-contribuir
