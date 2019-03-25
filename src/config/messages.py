@@ -23,7 +23,8 @@ MSG_LINK_CANAL = '''Canal no Youtube: https://www.youtube.com/user/adsecf'''
 MSG_LINK_CURSO = '''Curso na Udemy, com Desconto! https://www.udemy.com/seguranca-da-informacao-e-hacking/?couponCode=GUIAANONIMA '''
 
 MSG_ALERT_CTF = '''{x}{x}{x}{x}ATENÇÃO{x}{x}{x}{x}
-O desafio CTF irá começar pelas 21 horas de hoje 24/03, e terá o tempo de 1 hora a partir do momento em que for disponibilizado, qualquer pessoa daqui pode participar. Agora atenção para as regras
+O desafio CTF irá começar pelas 21 horas todo domingo, e terá o tempo de 1 hora a partir do momento em que for disponibilizado, qualquer pessoa daqui pode participar. Agora atenção para as regras
+
 {x}{x}{x}{x}REGRAS{x}{x}{x}{x}
 - MANDAR 3 PRINTS DE TELA MOSTRANDO O PROCESSO
 - EXPLICAR EM ÁUDIO O PROCEDIMENTO COMPLETO ATÉ A RESPOSTA
