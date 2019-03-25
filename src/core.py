@@ -1,7 +1,7 @@
 import time
 import telebot
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup
-from src.config.settings import TELEGRAM_TOKEN, MSG_BOAS_VINDAS, \
+from config.settings import TELEGRAM_TOKEN, MSG_BOAS_VINDAS, \
     MSG_REGRAS, URL_BOT, MSG_LINK_CANAL, MSG_LINK_CURSO, MSG_ALERT_CTF, \
     PRINT_EVENTS
 

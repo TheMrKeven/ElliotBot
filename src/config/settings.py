@@ -1,5 +1,5 @@
 import os
-from src.config.messages import MSG_BOAS_VINDAS, MSG_REGRAS, \
+from config.messages import MSG_BOAS_VINDAS, MSG_REGRAS, \
     MSG_LINK_CANAL, MSG_LINK_CURSO, MSG_ALERT_CTF, PRINT_EVENTS
 from dotenv import load_dotenv
 
